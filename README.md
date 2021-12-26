@@ -16,7 +16,7 @@ The patterns are implemented in Typescript as a way to further comprehend their 
 
 ### Structural Patterns
 
-- Adapter
+- [Adapter](src/Adapter)
 - Bridge
 - Composite
 - Decorator
