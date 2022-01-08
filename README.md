@@ -8,7 +8,7 @@ The patterns are implemented in Typescript as a way to further comprehend their 
 
 ### Creational Patterns
 
-- Factory Method
+- [Factory Method](src/FactoryMethod)
 - Abstract Factory
 - Builder
 - Prototype
